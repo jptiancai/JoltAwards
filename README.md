@@ -10,7 +10,7 @@ JoltAwards memo
 
 从1990年开始,美国权威的"软件开发"杂志每年从图书,设计工具等6个类别近千个候选产品中评选出每个类别的1个年度震撼大奖(Jolt Award)和2~3个效率大奖(Productivity Award),以表彰这些产品在推动软件开发方面的杰出贡献.回顾历史获奖名单,入选的均为对业界产生深远影响的里程碑式作品.
 
-# 整理,未完
+# 参考链接
 - [Jolt Awards](http://wiki.dreamrunner.org/public_html/BooksReview/JoltAwards.html)
     - [wiki](https://github.com/shishougang/wiki)
 - [	Ask HN: Dr. Dobb's Jolt Awards current alternative for technical books?](https://news.ycombinator.com/item?id=14951142)
